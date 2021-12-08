@@ -30,3 +30,8 @@ We will try to find some correlation between the different attributes we have an
 - The data doesn't state if any day is a vacation or not which can indicate if people tend to miss their appointments more on working days.
 - The age column had a negative value but according to the data creator, it means a baby not born yet (a pregnant woman).
 - When calculating the day difference between the scheduling and appointment days we had some negative value which makes no sense and might mean that the records of questions have wrong data.
+
+# Skills used : 
+Python, Jupyter Notebook, Numpy, Pandas, Matplotlib, Seaborn
+# Tasks : 
+Data Wrangling, data exploration, Data Cleaning, Exploratory Data Analysis & Data Visualization
