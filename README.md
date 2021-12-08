@@ -32,6 +32,6 @@ We will try to find some correlation between the different attributes we have an
 - When calculating the day difference between the scheduling and appointment days we had some negative value which makes no sense and might mean that the records of questions have wrong data.
 
 # Skills used : 
-Python, Jupyter Notebook, Numpy, Pandas, Matplotlib, Seaborn
+Python, Jupyter Notebook, Numpy, Pandas, Matplotlib, Seaborn, Statistics
 # Tasks : 
 Data Wrangling, data exploration, Data Cleaning, Exploratory Data Analysis & Data Visualization
